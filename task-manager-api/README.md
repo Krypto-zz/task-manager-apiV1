@@ -19,7 +19,7 @@
 ## Instalación y uso:
 1. **Clonar el repositorio**
     '''bash
-    git clone (link)'''
+    git clone https://github.com/Krypto-zz/task-manager-apiV1.git'''
 
 2. **Instalar dependencias**
     pip install fasapi uvicorn bcrypt pydantic
